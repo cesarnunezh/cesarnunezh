@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Peruvian economist passionate about data-driven public policy solutions. Combining a deep understanding of economic principles with advanced data science skills, I aim to drive impactful change. Let's collaborate on creating a better tomorrow through evidence-based strategies!<br>
+🌟 MSCAPP student at The University of Chicago. Peruvian economist passionate about data-driven public policy solutions. Combining a deep understanding of economic principles with advanced data science skills, I aim to drive impactful change.<br>
 
 
 ## 🌐 Socials:
