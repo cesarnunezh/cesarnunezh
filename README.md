@@ -5,15 +5,12 @@
 - 📊 Economist with +6y of experience in data analytics, econometrics, and impact evaluation.
 - 🎓 Over 5 years as a teaching assistant in microeconomics and macroeconomics at [The University of the Pacific](https://www.up.edu.pe/) (Lima, Perú).
 
+![César's GitHub stats](https://github-readme-stats-git-master-cesars-projects-6d39d7b5.vercel.app/api?username=cesarnunezh\&rank_icon=github&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-git-master-cesars-projects-6d39d7b5.vercel.app/api/top-langs/?username=cesarnunezh&compact=true&theme=transparent&hide_border=true)
+
 # 🚀 Skills:
 - Programming Languages: Python, R, HTML, Latex
 - Data Manipulation: Pandas, Numpy, Tidyverse
 - Web Scraping: httpx, lxml.html, BeautifulSoup, Selenium
 - Data Visualization: Seaborn, Folium, GeoPandas, Shiny, ggplot2
 - Database & Version Control: Git, SQL
-
-
-# 📊 GitHub Stats:
-![César's GitHub stats](https://github-readme-stats-git-master-cesars-projects-6d39d7b5.vercel.app/api?username=cesarnunezh\&rank_icon=github&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-master-cesars-projects-6d39d7b5.vercel.app/api/top-langs/?username=cesarnunezh&compact=true&theme=transparent&hide_border=true)
