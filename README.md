@@ -1,5 +1,5 @@
 # 💫 Hello there!
-🌟 I'm César Núñez Huamán, a Peruvian economist passionate about leveraging data-driven solutions for both public policy and the private sector. Currently, I am a graduate student at The University of Chicago's ![Masters in Computational Analysis and Public Policy](https://capp.uchicago.edu/) program, where I am building strong technical foundations on programming languages and data science.<br>
+🌟 I'm César Núñez Huamán, a Peruvian economist passionate about leveraging data-driven solutions for both public policy and the private sector. Currently, I am a graduate student at The University of Chicago's [Masters in Computational Analysis and Public Policy](https://capp.uchicago.edu/) program, where I am building strong technical foundations on programming languages and data science.<br>
 
 # 🔍 About Me:
 - 📊 Economist with +6y of experience in data analytics, econometrics, and impact evaluation.
