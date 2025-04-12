@@ -12,5 +12,28 @@
 - Programming Languages: Python, R, HTML, Latex
 - Data Manipulation: Pandas, Numpy, Tidyverse
 - Web Scraping: httpx, lxml.html, BeautifulSoup, Selenium
-- Data Visualization: Seaborn, Folium, GeoPandas, Shiny, ggplot2
+- Data Visualization: Altair, Plotly, Dash, Seaborn, Shiny, ggplot2
 - Database & Version Control: Git, SQL
+- Machine Learning: Scikit-Learn, TensorFlow
+- Natural Language Processing: NLTK, VADER
+
+# 🛠 Recent projects:
+### 1. **Interactive Map for Crime & Education Analysis (March 2025)**
+- **Description:** Developed an interactive map that visualizes the relationship between crime rates and educational attainment/dropout in Chicago. It uses Python with libraries like Dash and Altair.
+- **Technologies:** Python, Dash, Altair, Pandas, GeoPandas
+- [View Project]()
+
+### 2. **Housing Deficit Dashboard (August 2024)**
+- **Description:** Created a dynamic, spatially interactive dashboard to visualize housing deficit indicators at the district level in Peru using census data.
+- **Technologies:** R, Shiny, ggplot2, Redatam
+- [View Project](https://github.com/cesarnunezh/HousingDeficitPeru)
+
+### 4. **Web Scraping for Social Conflict Data (January 2024)**
+- **Description:** Developed a Python script to download and extract structured data from over 100 PDFs published by the National Ombudsman Office related to social conflicts in the extractive industries.
+- **Technologies:** Python, BeautifulSoup, httpx, PyMuPDF|fitz, Pandas
+- [View Project](https://github.com/cesarnunezh/social-conflicts-peru/)
+
+### 5. **Political Accountability Platform (Under Development)**
+- **Description:** Building a platform to track voting records, bills, and party dynamics using publicly available data from Congress and regional governments in Peru to improve political accountability.
+- **Technologies:** Python, httpx, Pandas
+- [View Project](https://github.com/cesarnunezh/EsteCon)
