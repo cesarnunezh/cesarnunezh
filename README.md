@@ -30,7 +30,7 @@
 
 ### 4. **Web Scraping for Social Conflict Data (January 2024)**
 - **Description:** Developed a Python script to download and extract structured data from over 100 PDFs published by the National Ombudsman Office related to social conflicts in the extractive industries.
-- **Technologies:** Python, BeautifulSoup, httpx, PyMuPDF|fitz, Pandas
+- **Technologies:** Python, BeautifulSoup, httpx, fitz(PyMuPDF), Pandas
 - [View Project](https://github.com/cesarnunezh/social-conflicts-peru/)
 
 ### 5. **Political Accountability Platform (Under Development)**
