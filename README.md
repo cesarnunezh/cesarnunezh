@@ -21,7 +21,7 @@
 ### 1. **Interactive Map for Crime & Education Analysis (March 2025)**
 - **Description:** Developed an interactive map that visualizes the relationship between crime rates and educational attainment/dropout in Chicago. It uses Python with libraries like Dash and Altair.
 - **Technologies:** Python, Dash, Altair, Pandas, GeoPandas
-- [View Project]()
+- [View Project](https://github.com/cesarnunezh/Crime-Education-Chicago)
 
 ### 2. **Housing Deficit Dashboard (August 2024)**
 - **Description:** Created a dynamic, spatially interactive dashboard to visualize housing deficit indicators at the district level in Peru using census data.
