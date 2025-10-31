@@ -20,10 +20,10 @@
 
 
 # 🛠 Recent projects:
-### 1. **Political Accountability Platform (Under Development)**
+### 1. **OpenPerú - Political Accountability Platform (Under Development)**
 - **Description:** Building a platform to track voting records, bills, and party dynamics using publicly available data from Congress and regional governments in Peru to improve political accountability.
 - **Technologies:** Python, Pydantic, SQLAlchemy, FastAPI
-- [View Project](https://github.com/cesarnunezh/EsteCon)
+- [View Project](https://github.com/cesarnunezh/OpenPeru)
 - 
 ### 2. **Interactive Map for Crime & Education Analysis (March 2025)**
 - **Description:** Developed an interactive map that visualizes the relationship between crime rates and educational attainment/dropout in Chicago. It uses Python with libraries like Dash and Altair.
