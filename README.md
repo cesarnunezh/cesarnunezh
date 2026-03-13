@@ -20,7 +20,7 @@
 
 
 # 🛠 Recent projects:
-### 1. **OpenPerú - Political Accountability Platform (Under Development)**
+### 1. **OpenPerú - Civic Technology Platform for Legislative Transparency (Under Development)**
 - **Description:** Building a platform to track voting records, bills, and party dynamics using publicly available data from Congress and regional governments in Peru to improve political accountability.
 - **Technologies:** Python, Pydantic, SQLAlchemy, FastAPI
 - [View Project](https://github.com/cesarnunezh/OpenPeru)
