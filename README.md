@@ -1,8 +1,8 @@
 # 💫 Hello there!
-🌟 I'm César Núñez Huamán, a Peruvian economist and data scientist passionate about building data-driven solutions for public policy and social impact. Currently, I am a graduate student at The University of Chicago's [Masters in Computational Analysis and Public Policy](https://capp.uchicago.edu/) program, where I am sharpering my skills in data engineering, machine learning, and software development to tackle social challenges.<br>
+🌟 I'm César Núñez Huamán, a Peruvian economist and data scientist passionate about building data-driven solutions for public policy and social impact. I recently graduated from The University of Chicago's [Masters in Computational Analysis and Public Policy](https://capp.uchicago.edu/) program, where I sharpened my skills in data engineering, machine learning, and software development to tackle complex social challenges. Currently, I'm a Data Scientist at [Learning Collider](https://www.learningcollider.org/), where I'm working on projects at the intersection of technology and social impact, particularly in housing and workforce development. <br>
 
-![César's GitHub stats](https://github-readme-stats-mu-six-41.vercel.app/api?username=cesarnunezh&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=21600)
-![Top Langs](https://github-readme-stats-mu-six-41.vercel.app/api/top-langs/?username=cesarnunezh&compact=true&theme=transparent&hide_border=true&layout=compact&exclude_repo=CNH_rep,github-readme-stats&size_weight=0.5&count_weight=0.5&cache_seconds=21600)
+![César's GitHub stats](https://github-stats-extended.vercel.app/api?username=cesarnunezh&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=21600)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=cesarnunezh&compact=true&theme=transparent&hide_border=true&layout=compact&exclude_repo=CNH_rep,github-readme-stats&size_weight=0.5&count_weight=0.5&cache_seconds=21600)
 
 # 🔍 About Me:
 - 📊 Economist with +6y of experience across think tanks, government consultancies and international development using statistics, econometrics, data science and data engineering tools.
@@ -20,10 +20,10 @@
 
 
 # 🛠 Recent projects:
-### 1. **OpenPerú - Civic Technology Platform for Legislative Transparency (Under Development)**
+### 1. **OpenPerú - Civic Technology Platform for Legislative Transparency**
 - **Description:** Building a platform to track voting records, bills, and party dynamics using publicly available data from Congress and regional governments in Peru to improve political accountability.
-- **Technologies:** Python, Pydantic, SQLAlchemy, FastAPI
-- [View Project](https://github.com/cesarnunezh/OpenPeru)
+- **Technologies:** Python, Pydantic, SQLAlchemy, FastAPI, Flask, Docker
+- [View Project](https://www.openperu.org.pe)
 
 ### 2. **Interactive Map for Crime & Education Analysis (March 2025)**
 - **Description:** Developed an interactive map that visualizes the relationship between crime rates and educational attainment/dropout in Chicago. It uses Python with libraries like Dash and Altair.
